@@ -12,8 +12,8 @@
 
 /**
  * 2.错误优先的回调函数
- * @param {传入的数字} number 
- * @param {回调函数参数的最后一个，错误优先} callback 
+ * @param {*} number 传入的数字
+ * @param {*} callback 回调函数参数的最后一个，错误优先
  */
 
 function isEvenOdd(number, callback) {
