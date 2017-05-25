@@ -27,4 +27,4 @@ process.on('SIGINT', () => {
             exiting = false;
         }, 1000);
     }
-})
+}) 
